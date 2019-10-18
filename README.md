@@ -1,0 +1,3 @@
+# Pew Pew Console
+I'm trying to make a short game that renders graphics on a console!
+Nothing else to see right now. Continue walking...
